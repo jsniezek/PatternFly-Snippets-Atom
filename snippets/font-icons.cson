@@ -1,0 +1,156 @@
+# Font Icon Snippets
+#
+# All PatternFly icons (PatternFly and recommended Font Awesome icons)
+# can be inserted into an HTML file by typing "i-"
+#
+# Refer to https://www.patternfly.org/styles/icons/ for details on PatternFly icons.
+
+'.text.html':
+
+# FA Icons
+
+  '˄ up angle icon':
+    'prefix': 'i-angle-up'
+    'body': '<i class="fa fa-angle-up"></i>'
+
+  '˅ down angle icon':
+    'prefix': 'i-angle-down'
+    'body': '<i class="fa fa-angle-down"></i>'
+
+  '< left angle icon':
+    'prefix': 'i-angle-left'
+    'body': '<i class="fa fa-angle-left"></i>'
+
+  '≪ dbl left angle icon':
+    'prefix': 'i-angle-left2'
+    'body': '<i class="fa fa-double-left"></i>'
+
+  '> right angle icon':
+    'prefix': 'i-angle-right'
+    'body': '<i class="fa fa-angle-right"></i>'
+
+  '≫ dbl right angle icon':
+    'prefix': 'i-angle-right2'
+    'body': '<i class="fa fa-double-right"></i>'
+
+ # fa-arrow-circle-o-down
+ # fa-ban
+ # fa-bug
+ # fa-check
+ # fa-clock-o
+ # fa-cube
+ # fa-cubes
+ # fa-database
+ # fa-envelope
+ # fa-filter
+ # fa-lock
+ # fa-map-marker
+ # fa-minus
+ # fa-plus
+ # fa-plus-square
+ # fa-power-off
+ # fa-refresh
+ # fa-search
+ # fa-shield
+ # fa-star
+ # fa-star-o
+ # fa-tachometer
+ # fa-thumb-tack
+ # fa-unlock-alt
+
+# PF Icons
+
+  '⨁ add icon':
+    'prefix': 'i-add'
+    'body': '<i class="pficon pficon-add-circle-o"></i>'
+
+  'build icon':
+    'prefix': 'i-build'
+    'body': '<i class="pficon pficon-build"></i>'
+
+  'builder image icon':
+    'prefix': 'i-builder-image'
+    'body': '<i class="pficon pficon-builder-image"></i>'
+
+  '𝗫 icon':
+    'prefix': 'i-close'
+    'body': '<i class="pficon pficon-close"></i>'
+
+  'cloud security icon':
+    'prefix': 'i-cloud-security'
+    'body': '<i class="pficon pficon-cloud-security"></i>'
+
+  'cloud tenant icon':
+    'prefix': 'i-cloud-tenant'
+    'body': '<i class="pficon pficon-cloud-tenant"></i>'
+
+  'cluster icon':
+    'prefix': 'i-cluster'
+    'body': '<i class="pficon pficon-cluster"></i>'
+
+  'container node icon':
+    'prefix': 'i-container-node'
+    'body': '<i class="pficon pficon-container-node"></i>'
+
+  'cpu icon':
+    'prefix': 'i-cpu'
+    'body': '<i class="pficon pficon-cpu"></i>'
+
+  '🗑 delete icon':
+    'prefix': 'i-delete'
+    'body': '<i class="pficon pficon-delete"></i>'
+
+  '✎ edit icon':
+    'prefix': 'i-edit'
+    'body': '<i class="pficon pficon-edit"></i>'
+
+  'enterprise icon':
+    'prefix': 'i-enterprise'
+    'body': '<i class="pficon pficon-enterprise"></i>'
+
+  'Ⓧ error icon':
+    'prefix': 'i-error'
+    'body': '<i class="pficon pficon-error"></i>'
+
+# pficon-export
+# pficon-flag
+# pficon-flavor
+# pficon-folder-close
+# pficon-folder-open
+# pficon-help
+# pficon-home
+# pficon-history
+# pficon-image
+# pficon-import
+# pficon-info
+# pficon-memory
+# pficon-network
+# pficon-ok
+# pficon-print
+# pficon-project
+# pficon-regions
+# pficon-registry
+# pficon-replicator
+# pficon-repository
+# pficon-resource-pool
+# pficon-resources-almost-full
+# pficon-resources-full
+# pficon-restart
+# pficon-route
+# pficon-running
+# pficon-save
+# pficon-screen
+# pficon-server
+# pficon-service
+# pficon-settings
+# pficon-storage-domain
+# pficon-thumb-tack-o
+# pficon-topology
+# pficon-trend-down
+# pficon-trend-up
+# pficon-user
+# pficon-users
+# pficon-virtual-machine
+# pficon-volume
+# pficon-warning-triangle-o ⚠
+# pficon-zone
