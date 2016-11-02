@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "patternfly-snippets:toggle"
   },
-  "repository": "https://github.com/atom/patternfly-snippets",
+  "repository": "https://github.com/jsniezek/patternfly-snippets-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

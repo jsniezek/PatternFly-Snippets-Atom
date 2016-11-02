@@ -5,4 +5,4 @@ NOTE: This is just a proof of concept. Currently, this package only provides sni
 
 Learn about PatternFly: https://www.patternfly.org/
 
-![A screenshot of your package](https://www.patternfly.org/assets/img/patternfly-orb.svg)
+![A screenshot of this package](https://www.patternfly.org/assets/img/patternfly-orb.svg)
