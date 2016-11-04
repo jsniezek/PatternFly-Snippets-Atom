@@ -1,7 +1,7 @@
 # Font Icon Snippets
 #
-# All PatternFly icons (PatternFly and recommended Font Awesome icons)
-# can be inserted into an HTML file by typing "i-"
+# All PatternFly icons (PatternFly and recommended Font Awesome icons).
+# Icons can be inserted into an HTML file by typing "i-"
 #
 # Refer to https://www.patternfly.org/styles/icons/ for details on PatternFly icons.
 
@@ -33,30 +33,102 @@
     'prefix': 'i-angle-right2'
     'body': '<i class="fa fa-double-right"></i>'
 
- # fa-arrow-circle-o-down
- # fa-ban
- # fa-bug
- # fa-check
- # fa-clock-o
- # fa-cube
- # fa-cubes
- # fa-database
- # fa-envelope
- # fa-filter
- # fa-lock
- # fa-map-marker
- # fa-minus
- # fa-plus
- # fa-plus-square
- # fa-power-off
- # fa-refresh
- # fa-search
- # fa-shield
- # fa-star
- # fa-star-o
- # fa-tachometer
- # fa-thumb-tack
- # fa-unlock-alt
+  '⬇️◯ arrow down in circle icon':
+    'prefix': 'i-arrow-down-circle'
+    'body': '<i class="fa fa-arrow-circle-o-down"></i>'
+
+  '🚫 ban icon':
+    'prefix': 'i-ban'
+    'body': '<i class="fa fa-ban"></i>'
+
+   '🐞 bug icon':
+     'prefix': 'i-bug'
+     'body': '<i class="fa fa-bug"></i>'
+
+   '✓ check icon':
+     'prefix': 'i-check'
+     'body': '<i class="fa fa-check"></i>'
+
+   '⏰ clock icon':
+     'prefix': 'i-clock'
+     'body': '<i class="fa fa-clock-o"></i>'
+
+   'cube icon':
+     'prefix': 'i-cube'
+     'body': '<i class="fa fa-cube"></i>'
+
+   'cubes icon':
+     'prefix': 'i-cubes'
+     'body': '<i class="fa fa-cubes"></i>'
+
+   '▉ database icon':
+     'prefix': 'i-database'
+     'body': '<i class="fa fa-database"></i>'
+
+   '✉ envelope icon':
+     'prefix': 'i-envelope'
+     'body': '<i class="fa fa-envelope"></i>'
+
+   'filter icon':
+     'prefix': 'i-filter'
+     'body': '<i class="fa fa-filter"></i>'
+
+   'lock icon':
+     'prefix': 'i-lock'
+     'body': '<i class="fa fa-lock"></i>'
+
+   'map marker icon':
+     'prefix': 'i-map-marker'
+     'body': '<i class="fa fa-map-marker"></i>'
+
+   '- minus icon':
+     'prefix': 'i-minus'
+     'body': '<i class="fa fa-minus"></i>'
+
+   '+ plus icon':
+     'prefix': 'i-plus'
+     'body': '<i class="fa fa-plus"></i>'
+
+   'plus square icon':
+     'prefix': 'i-plus-square'
+     'body': '<i class="fa fa-plus-square"></i>'
+
+   'power off icon':
+     'prefix': 'i-power-off'
+     'body': '<i class="fa fa-power-off"></i>'
+
+   'refresh icon':
+     'prefix': 'i-refresh'
+     'body': '<i class="fa fa-refresh"></i>'
+
+   'search icon':
+     'prefix': 'i-search'
+     'body': '<i class="fa fa-search"></i>'
+
+   'shield icon':
+     'prefix': 'i-shield'
+     'body': '<i class="fa fa-shield"></i>'
+
+   '★ star icon':
+     'prefix': 'i-star'
+     'body': '<i class="fa fa-star"></i>'
+
+   '☆ star open icon':
+     'prefix': 'i-star-open'
+     'body': '<i class="fa fa-star-o"></i>'
+
+   'tacky meter icon':
+     'prefix': 'i-tachometer'
+     'body': '<i class="fa fa-tachometer"></i>'
+
+   'thumb tack icon':
+     'prefix': 'i-thumb-tack'
+     'body': '<i class="fa fa-thumb-tack"></i>'
+
+   'unlock icon':
+     'prefix': 'i-unlock'
+     'body': '<i class="fa fa-unlock-alt"></i>'
+
 
 # PF Icons
 
@@ -72,7 +144,7 @@
     'prefix': 'i-builder-image'
     'body': '<i class="pficon pficon-builder-image"></i>'
 
-  '𝗫 icon':
+  '𝗫 close icon':
     'prefix': 'i-close'
     'body': '<i class="pficon pficon-close"></i>'
 
@@ -112,45 +184,170 @@
     'prefix': 'i-error'
     'body': '<i class="pficon pficon-error"></i>'
 
-# pficon-export
-# pficon-flag
-# pficon-flavor
-# pficon-folder-close
-# pficon-folder-open
-# pficon-help
-# pficon-home
-# pficon-history
-# pficon-image
-# pficon-import
-# pficon-info
-# pficon-memory
-# pficon-network
-# pficon-ok
-# pficon-print
-# pficon-project
-# pficon-regions
-# pficon-registry
-# pficon-replicator
-# pficon-repository
-# pficon-resource-pool
-# pficon-resources-almost-full
-# pficon-resources-full
-# pficon-restart
-# pficon-route
-# pficon-running
-# pficon-save
-# pficon-screen
-# pficon-server
-# pficon-service
-# pficon-settings
-# pficon-storage-domain
-# pficon-thumb-tack-o
-# pficon-topology
-# pficon-trend-down
-# pficon-trend-up
-# pficon-user
-# pficon-users
-# pficon-virtual-machine
-# pficon-volume
-# pficon-warning-triangle-o ⚠
-# pficon-zone
+  'export icon':
+    'prefix': 'i-export'
+    'body': '<i class="pficon pficon-export"></i>'
+
+  '⚑ flag icon':
+    'prefix': 'i-flag'
+    'body': '<i class="pficon pficon-flag"></i>'
+
+  'flavor icon':
+    'prefix': 'i-flavor'
+    'body': '<i class="pficon pficon-flavor"></i>'
+
+  '📁 folder closed icon':
+    'prefix': 'i-folder-close'
+    'body': '<i class="pficon pficon-folder-close"></i>'
+
+  '📂 folder open icon':
+    'prefix': 'i-folder-open'
+    'body': '<i class="pficon pficon-folder-open"></i>'
+
+  '❔ help icon':
+    'prefix': 'i-help'
+    'body': '<i class="pficon pficon-help"></i>'
+
+  '🏠 home icon':
+    'prefix': 'i-home'
+    'body': '<i class="pficon pficon-home"></i>'
+
+  '⏰⟲ history icon':
+    'prefix': 'i-history'
+    'body': '<i class="pficon pficon-history"></i>'
+
+  'image icon':
+    'prefix': 'i-image'
+    'body': '<i class="pficon pficon-image"></i>'
+
+  'import icon':
+    'prefix': 'i-import'
+    'body': '<i class="pficon pficon-import"></i>'
+
+  'ⓘ info icon':
+    'prefix': 'i-info'
+    'body': '<i class="pficon pficon-info"></i>'
+
+  'memory icon':
+    'prefix': 'i-memory'
+    'body': '<i class="pficon pficon-memory"></i>'
+
+  'network icon':
+    'prefix': 'i-network'
+    'body': '<i class="pficon pficon-network"></i>'
+
+  '☑ OK icon':
+    'prefix': 'i-OK'
+    'body': '<i class="pficon pficon-ok"></i>'
+
+  'print icon':
+    'prefix': 'i-print'
+    'body': '<i class="pficon pficon-print"></i>'
+
+  'project icon':
+    'prefix': 'i-project'
+    'body': '<i class="pficon pficon-project"></i>'
+
+  'regions icon':
+    'prefix': 'i-regions'
+    'body': '<i class="pficon pficon-regions"></i>'
+
+  'registry icon':
+    'prefix': 'i-registry'
+    'body': '<i class="pficon pficon-registry"></i>'
+
+  'replicator icon':
+    'prefix': 'i-replicator'
+    'body': '<i class="pficon pficon-replicator"></i>'
+
+  'repository icon':
+    'prefix': 'i-repository'
+    'body': '<i class="pficon pficon-repository"></i>'
+
+  'resource pool icon':
+    'prefix': 'i-resource-pool'
+    'body': '<i class="pficon pficon-resource-pool"></i>'
+
+  '◒ resources-almost-full-icon':
+    'prefix': 'i-resources-almost-full'
+    'body': '<i class="pficon pficon-resources-almost-full"></i>'
+
+  '◉ resources full icon':
+    'prefix': 'i-resources-full'
+    'body': '<i class="pficon pficon-resources-full"></i>'
+
+  'restart icon':
+    'prefix': 'i-restart'
+    'body': '<i class="pficon pficon-restart"></i>'
+
+  'route icon':
+    'prefix': 'i-route'
+    'body': '<i class="pficon pficon-route"></i>'
+
+  'running icon':
+    'prefix': 'i-running'
+    'body': '<i class="pficon pficon-running"></i>'
+
+  'save icon':
+    'prefix': 'i-save'
+    'body': '<i class="pficon pficon-save"></i>'
+
+  'screen icon':
+    'prefix': 'i-screen'
+    'body': '<i class="pficon pficon-screen"></i>'
+
+  '▤ server icon':
+    'prefix': 'i-server'
+    'body': '<i class="pficon pficon-server"></i>'
+
+  'service icon':
+    'prefix': 'i-service'
+    'body': '<i class="pficon pficon-service"></i>'
+
+  'settings icon':
+    'prefix': 'i-settings'
+    'body': '<i class="pficon pficon-settings"></i>'
+
+  'storage domain icon':
+    'prefix': 'i-storage-domain'
+    'body': '<i class="pficon pficon-storage-domain"></i>'
+
+  'thumb tack icon':
+    'prefix': 'i-thumb-tack'
+    'body': '<i class="pficon pficon-thumb-tack-o"></i>'
+
+  'topology icon':
+    'prefix': 'i-topology'
+    'body': '<i class="pficon pficon-topology"></i>'
+
+  '➘ trend down icon':
+    'prefix': 'i-trend-down'
+    'body': '<i class="pficon pficon-trend-down"></i>'
+
+  '➚ trend up icon':
+    'prefix': 'i-trend-up'
+    'body': '<i class="pficon pficon-trend-up"></i>'
+
+  'user icon':
+    'prefix': 'i-user'
+    'body': '<i class="pficon pficon-user"></i>'
+
+  'users icon':
+    'prefix': 'i-users'
+    'body': '<i class="pficon pficon-users"></i>'
+
+  'virtual machine icon':
+    'prefix': 'i-virtual-machine'
+    'body': '<i class="pficon pficon-virtual-machine"></i>'
+
+  'volume icon':
+    'prefix': 'i-volume'
+    'body': '<i class="pficon pficon-volume"></i>'
+
+  '⚠ warning icon':
+    'prefix': 'i-warning'
+    'body': '<i class="pficon pficon-warning-triangle-o"></i>'
+
+  '⚭ zone icon':
+    'prefix': 'i-zone'
+    'body': '<i class="pficon pficon-zone"></i>'
