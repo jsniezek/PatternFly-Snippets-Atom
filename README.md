@@ -1,8 +1,13 @@
 # patternfly-snippets package
 
 Snippets to help you develop your web application using PatternFly.
-NOTE: This is just a proof of concept. Currently, this package only provides snippets for a selection of PatternFly Font Icons.
+
+Currently, this package provides Snippets for all PatternFly Font Icons and recommended FontAwesome Icons used in PatternFly.
+
+To launch these icon Snippets, start typing "i-" in any HTML file.
+
+
 
 Learn about PatternFly: https://www.patternfly.org/
 
-![A screenshot of this package](https://www.patternfly.org/assets/img/patternfly-orb.svg)
+![PatternFly](https://www.patternfly.org/assets/img/patternfly-orb.svg)
