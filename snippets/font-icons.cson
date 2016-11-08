@@ -9,345 +9,345 @@
 
 # FA Icons
 
-  '˄ up angle icon':
+  '˄ up angle (fa)':
     'prefix': 'i-angle-up'
-    'body': '<i class="fa fa-angle-up"></i>'
+    'body': '<span class="fa fa-angle-up"></span>'
 
-  '˅ down angle icon':
+  '˅ down angle (fa)':
     'prefix': 'i-angle-down'
-    'body': '<i class="fa fa-angle-down"></i>'
+    'body': '<span class="fa fa-angle-down"></span>'
 
-  '< left angle icon':
+  '< left angle (fa)':
     'prefix': 'i-angle-left'
-    'body': '<i class="fa fa-angle-left"></i>'
+    'body': '<span class="fa fa-angle-left"></span>'
 
-  '≪ dbl left angle icon':
+  '≪ dbl left angle (fa)':
     'prefix': 'i-angle-left2'
-    'body': '<i class="fa fa-double-left"></i>'
+    'body': '<span class="fa fa-angle-double-left"></span>'
 
-  '> right angle icon':
+  '> right angle (fa)':
     'prefix': 'i-angle-right'
-    'body': '<i class="fa fa-angle-right"></i>'
+    'body': '<span class="fa fa-angle-right"></span>'
 
-  '≫ dbl right angle icon':
+  '≫ dbl right angle (fa)':
     'prefix': 'i-angle-right2'
-    'body': '<i class="fa fa-double-right"></i>'
+    'body': '<span class="fa fa-angle-double-right"></span>'
 
-  '⬇️◯ arrow down in circle icon':
+  '⬇️◯ arrow down in circle (fa)':
     'prefix': 'i-arrow-down-circle'
-    'body': '<i class="fa fa-arrow-circle-o-down"></i>'
+    'body': '<span class="fa fa-arrow-circle-o-down"></span>'
 
-  '🚫 ban icon':
+  '🚫 ban (fa)':
     'prefix': 'i-ban'
-    'body': '<i class="fa fa-ban"></i>'
+    'body': '<span class="fa fa-ban"></span>'
 
-   '🐞 bug icon':
+   '🐞 bug (fa)':
      'prefix': 'i-bug'
-     'body': '<i class="fa fa-bug"></i>'
+     'body': '<span class="fa fa-bug"></span>'
 
-   '✓ check icon':
+   '✓ check (fa)':
      'prefix': 'i-check'
-     'body': '<i class="fa fa-check"></i>'
+     'body': '<span class="fa fa-check"></span>'
 
-   '⏰ clock icon':
+   '⏰ clock (fa)':
      'prefix': 'i-clock'
-     'body': '<i class="fa fa-clock-o"></i>'
+     'body': '<span class="fa fa-clock-o"></span>'
 
-   'cube icon':
+   'cube (fa)':
      'prefix': 'i-cube'
-     'body': '<i class="fa fa-cube"></i>'
+     'body': '<span class="fa fa-cube"></span>'
 
-   'cubes icon':
+   'cubes (fa)':
      'prefix': 'i-cubes'
-     'body': '<i class="fa fa-cubes"></i>'
+     'body': '<span class="fa fa-cubes"></span>'
 
-   '▉ database icon':
+   '▉ database (fa)':
      'prefix': 'i-database'
-     'body': '<i class="fa fa-database"></i>'
+     'body': '<span class="fa fa-database"></span>'
 
-   '✉ envelope icon':
+   '✉ envelope (fa)':
      'prefix': 'i-envelope'
-     'body': '<i class="fa fa-envelope"></i>'
+     'body': '<span class="fa fa-envelope"></span>'
 
-   'filter icon':
+   'filter (fa)':
      'prefix': 'i-filter'
-     'body': '<i class="fa fa-filter"></i>'
+     'body': '<span class="fa fa-filter"></span>'
 
-   'lock icon':
+   'lock (fa)':
      'prefix': 'i-lock'
-     'body': '<i class="fa fa-lock"></i>'
+     'body': '<span class="fa fa-lock"></span>'
 
-   'map marker icon':
+   'map marker (fa)':
      'prefix': 'i-map-marker'
-     'body': '<i class="fa fa-map-marker"></i>'
+     'body': '<span class="fa fa-map-marker"></span>'
 
-   '- minus icon':
+   '- minus (fa)':
      'prefix': 'i-minus'
-     'body': '<i class="fa fa-minus"></i>'
+     'body': '<span class="fa fa-minus"></span>'
 
-   '+ plus icon':
+   '+ plus (fa)':
      'prefix': 'i-plus'
-     'body': '<i class="fa fa-plus"></i>'
+     'body': '<span class="fa fa-plus"></span>'
 
-   'plus square icon':
+   'plus square (fa)':
      'prefix': 'i-plus-square'
-     'body': '<i class="fa fa-plus-square"></i>'
+     'body': '<span class="fa fa-plus-square"></span>'
 
-   'power off icon':
+   'power off (fa)':
      'prefix': 'i-power-off'
-     'body': '<i class="fa fa-power-off"></i>'
+     'body': '<span class="fa fa-power-off"></span>'
 
-   'refresh icon':
+   'refresh (fa)':
      'prefix': 'i-refresh'
-     'body': '<i class="fa fa-refresh"></i>'
+     'body': '<span class="fa fa-refresh"></span>'
 
-   'search icon':
+   'search (fa)':
      'prefix': 'i-search'
-     'body': '<i class="fa fa-search"></i>'
+     'body': '<span class="fa fa-search"></span>'
 
-   'shield icon':
+   'shield (fa)':
      'prefix': 'i-shield'
-     'body': '<i class="fa fa-shield"></i>'
+     'body': '<span class="fa fa-shield"></span>'
 
-   '★ star icon':
+   '★ star (fa)':
      'prefix': 'i-star'
-     'body': '<i class="fa fa-star"></i>'
+     'body': '<span class="fa fa-star"></span>'
 
-   '☆ star open icon':
+   '☆ star open (fa)':
      'prefix': 'i-star-open'
-     'body': '<i class="fa fa-star-o"></i>'
+     'body': '<span class="fa fa-star-o"></span>'
 
-   'tacky meter icon':
+   'tachometer (fa)':
      'prefix': 'i-tachometer'
-     'body': '<i class="fa fa-tachometer"></i>'
+     'body': '<span class="fa fa-tachometer"></span>'
 
-   'thumb tack icon':
+   'thumb tack (fa)':
      'prefix': 'i-thumb-tack'
-     'body': '<i class="fa fa-thumb-tack"></i>'
+     'body': '<span class="fa fa-thumb-tack"></span>'
 
-   'unlock icon':
+   'unlock (fa)':
      'prefix': 'i-unlock'
-     'body': '<i class="fa fa-unlock-alt"></i>'
+     'body': '<span class="fa fa-unlock-alt"></span>'
 
 
 # PF Icons
 
-  '⨁ add icon':
+  '⨁ add (pf)':
     'prefix': 'i-add'
-    'body': '<i class="pficon pficon-add-circle-o"></i>'
+    'body': '<span class="pficon pficon-add-circle-o"></span>'
 
-  'build icon':
+  'build (pf)':
     'prefix': 'i-build'
-    'body': '<i class="pficon pficon-build"></i>'
+    'body': '<span class="pficon pficon-build"></span>'
 
-  'builder image icon':
+  'builder image (pf)':
     'prefix': 'i-builder-image'
-    'body': '<i class="pficon pficon-builder-image"></i>'
+    'body': '<span class="pficon pficon-builder-image"></span>'
 
-  '𝗫 close icon':
+  '𝗫 close (pf)':
     'prefix': 'i-close'
-    'body': '<i class="pficon pficon-close"></i>'
+    'body': '<span class="pficon pficon-close"></span>'
 
-  'cloud security icon':
+  'cloud security (pf)':
     'prefix': 'i-cloud-security'
-    'body': '<i class="pficon pficon-cloud-security"></i>'
+    'body': '<span class="pficon pficon-cloud-security"></span>'
 
-  'cloud tenant icon':
+  'cloud tenant (pf)':
     'prefix': 'i-cloud-tenant'
-    'body': '<i class="pficon pficon-cloud-tenant"></i>'
+    'body': '<span class="pficon pficon-cloud-tenant"></span>'
 
-  'cluster icon':
+  'cluster (pf)':
     'prefix': 'i-cluster'
-    'body': '<i class="pficon pficon-cluster"></i>'
+    'body': '<span class="pficon pficon-cluster"></span>'
 
-  'container node icon':
+  'container node (pf)':
     'prefix': 'i-container-node'
-    'body': '<i class="pficon pficon-container-node"></i>'
+    'body': '<span class="pficon pficon-container-node"></span>'
 
-  'cpu icon':
+  'cpu (pf)':
     'prefix': 'i-cpu'
-    'body': '<i class="pficon pficon-cpu"></i>'
+    'body': '<span class="pficon pficon-cpu"></span>'
 
-  '🗑 delete icon':
+  '🗑 delete (pf)':
     'prefix': 'i-delete'
-    'body': '<i class="pficon pficon-delete"></i>'
+    'body': '<span class="pficon pficon-delete"></span>'
 
-  '✎ edit icon':
+  '✎ edit (pf)':
     'prefix': 'i-edit'
-    'body': '<i class="pficon pficon-edit"></i>'
+    'body': '<span class="pficon pficon-edit"></span>'
 
-  'enterprise icon':
+  'enterprise (pf)':
     'prefix': 'i-enterprise'
-    'body': '<i class="pficon pficon-enterprise"></i>'
+    'body': '<span class="pficon pficon-enterprise"></span>'
 
-  'Ⓧ error icon':
+  'Ⓧ error (pf)':
     'prefix': 'i-error'
-    'body': '<i class="pficon pficon-error"></i>'
+    'body': '<span class="pficon pficon-error"></span>'
 
-  'export icon':
+  'export (pf)':
     'prefix': 'i-export'
-    'body': '<i class="pficon pficon-export"></i>'
+    'body': '<span class="pficon pficon-export"></span>'
 
-  '⚑ flag icon':
+  '⚑ flag (pf)':
     'prefix': 'i-flag'
-    'body': '<i class="pficon pficon-flag"></i>'
+    'body': '<span class="pficon pficon-flag"></span>'
 
-  'flavor icon':
+  'flavor (pf)':
     'prefix': 'i-flavor'
-    'body': '<i class="pficon pficon-flavor"></i>'
+    'body': '<span class="pficon pficon-flavor"></span>'
 
-  '📁 folder closed icon':
+  '📁 folder closed (pf)':
     'prefix': 'i-folder-close'
-    'body': '<i class="pficon pficon-folder-close"></i>'
+    'body': '<span class="pficon pficon-folder-close"></span>'
 
-  '📂 folder open icon':
+  '📂 folder open (pf)':
     'prefix': 'i-folder-open'
-    'body': '<i class="pficon pficon-folder-open"></i>'
+    'body': '<span class="pficon pficon-folder-open"></span>'
 
-  '❔ help icon':
+  '❔ help (pf)':
     'prefix': 'i-help'
-    'body': '<i class="pficon pficon-help"></i>'
+    'body': '<span class="pficon pficon-help"></span>'
 
-  '🏠 home icon':
+  '🏠 home (pf)':
     'prefix': 'i-home'
-    'body': '<i class="pficon pficon-home"></i>'
+    'body': '<span class="pficon pficon-home"></span>'
 
-  '⏰⟲ history icon':
+  '⏰⟲ history (pf)':
     'prefix': 'i-history'
-    'body': '<i class="pficon pficon-history"></i>'
+    'body': '<span class="pficon pficon-history"></span>'
 
-  'image icon':
+  'image (pf)':
     'prefix': 'i-image'
-    'body': '<i class="pficon pficon-image"></i>'
+    'body': '<span class="pficon pficon-image"></span>'
 
-  'import icon':
+  'import (pf)':
     'prefix': 'i-import'
-    'body': '<i class="pficon pficon-import"></i>'
+    'body': '<span class="pficon pficon-import"></span>'
 
-  'ⓘ info icon':
+  'ⓘ info (pf)':
     'prefix': 'i-info'
-    'body': '<i class="pficon pficon-info"></i>'
+    'body': '<span class="pficon pficon-info"></span>'
 
-  'memory icon':
+  'memory (pf)':
     'prefix': 'i-memory'
-    'body': '<i class="pficon pficon-memory"></i>'
+    'body': '<span class="pficon pficon-memory"></span>'
 
-  'network icon':
+  'network (pf)':
     'prefix': 'i-network'
-    'body': '<i class="pficon pficon-network"></i>'
+    'body': '<span class="pficon pficon-network"></span>'
 
-  '☑ OK icon':
+  '☑ OK (pf)':
     'prefix': 'i-OK'
-    'body': '<i class="pficon pficon-ok"></i>'
+    'body': '<span class="pficon pficon-ok"></span>'
 
-  'print icon':
+  'print (pf)':
     'prefix': 'i-print'
-    'body': '<i class="pficon pficon-print"></i>'
+    'body': '<span class="pficon pficon-print"></span>'
 
-  'project icon':
+  'project (pf)':
     'prefix': 'i-project'
-    'body': '<i class="pficon pficon-project"></i>'
+    'body': '<span class="pficon pficon-project"></span>'
 
-  'regions icon':
+  'regions (pf)':
     'prefix': 'i-regions'
-    'body': '<i class="pficon pficon-regions"></i>'
+    'body': '<span class="pficon pficon-regions"></span>'
 
-  'registry icon':
+  'registry (pf)':
     'prefix': 'i-registry'
-    'body': '<i class="pficon pficon-registry"></i>'
+    'body': '<span class="pficon pficon-registry"></span>'
 
-  'replicator icon':
+  'replicator (pf)':
     'prefix': 'i-replicator'
-    'body': '<i class="pficon pficon-replicator"></i>'
+    'body': '<span class="pficon pficon-replicator"></span>'
 
-  'repository icon':
+  'repository (pf)':
     'prefix': 'i-repository'
-    'body': '<i class="pficon pficon-repository"></i>'
+    'body': '<span class="pficon pficon-repository"></span>'
 
-  'resource pool icon':
+  'resource pool (pf)':
     'prefix': 'i-resource-pool'
-    'body': '<i class="pficon pficon-resource-pool"></i>'
+    'body': '<span class="pficon pficon-resource-pool"></span>'
 
   '◒ resources-almost-full-icon':
     'prefix': 'i-resources-almost-full'
-    'body': '<i class="pficon pficon-resources-almost-full"></i>'
+    'body': '<span class="pficon pficon-resources-almost-full"></span>'
 
-  '◉ resources full icon':
+  '◉ resources full (pf)':
     'prefix': 'i-resources-full'
-    'body': '<i class="pficon pficon-resources-full"></i>'
+    'body': '<span class="pficon pficon-resources-full"></span>'
 
-  'restart icon':
+  'restart (pf)':
     'prefix': 'i-restart'
-    'body': '<i class="pficon pficon-restart"></i>'
+    'body': '<span class="pficon pficon-restart"></span>'
 
-  'route icon':
+  'route (pf)':
     'prefix': 'i-route'
-    'body': '<i class="pficon pficon-route"></i>'
+    'body': '<span class="pficon pficon-route"></span>'
 
-  'running icon':
+  'running (pf)':
     'prefix': 'i-running'
-    'body': '<i class="pficon pficon-running"></i>'
+    'body': '<span class="pficon pficon-running"></span>'
 
-  'save icon':
+  'save (pf)':
     'prefix': 'i-save'
-    'body': '<i class="pficon pficon-save"></i>'
+    'body': '<span class="pficon pficon-save"></span>'
 
-  'screen icon':
+  'screen (pf)':
     'prefix': 'i-screen'
-    'body': '<i class="pficon pficon-screen"></i>'
+    'body': '<span class="pficon pficon-screen"></span>'
 
-  '▤ server icon':
+  '▤ server (pf)':
     'prefix': 'i-server'
-    'body': '<i class="pficon pficon-server"></i>'
+    'body': '<span class="pficon pficon-server"></span>'
 
-  'service icon':
+  'service (pf)':
     'prefix': 'i-service'
-    'body': '<i class="pficon pficon-service"></i>'
+    'body': '<span class="pficon pficon-service"></span>'
 
-  'settings icon':
+  'settings (pf)':
     'prefix': 'i-settings'
-    'body': '<i class="pficon pficon-settings"></i>'
+    'body': '<span class="pficon pficon-settings"></span>'
 
-  'storage domain icon':
+  'storage domain (pf)':
     'prefix': 'i-storage-domain'
-    'body': '<i class="pficon pficon-storage-domain"></i>'
+    'body': '<span class="pficon pficon-storage-domain"></span>'
 
-  'thumb tack icon':
+  'thumb tack (pf)':
     'prefix': 'i-thumb-tack'
-    'body': '<i class="pficon pficon-thumb-tack-o"></i>'
+    'body': '<span class="pficon pficon-thumb-tack-o"></span>'
 
-  'topology icon':
+  'topology (pf)':
     'prefix': 'i-topology'
-    'body': '<i class="pficon pficon-topology"></i>'
+    'body': '<span class="pficon pficon-topology"></span>'
 
-  '➘ trend down icon':
+  '➘ trend down (pf)':
     'prefix': 'i-trend-down'
-    'body': '<i class="pficon pficon-trend-down"></i>'
+    'body': '<span class="pficon pficon-trend-down"></span>'
 
-  '➚ trend up icon':
+  '➚ trend up (pf)':
     'prefix': 'i-trend-up'
-    'body': '<i class="pficon pficon-trend-up"></i>'
+    'body': '<span class="pficon pficon-trend-up"></span>'
 
-  'user icon':
+  'user (pf)':
     'prefix': 'i-user'
-    'body': '<i class="pficon pficon-user"></i>'
+    'body': '<span class="pficon pficon-user"></span>'
 
-  'users icon':
+  'users (pf)':
     'prefix': 'i-users'
-    'body': '<i class="pficon pficon-users"></i>'
+    'body': '<span class="pficon pficon-users"></span>'
 
-  'virtual machine icon':
+  'virtual machine (pf)':
     'prefix': 'i-virtual-machine'
-    'body': '<i class="pficon pficon-virtual-machine"></i>'
+    'body': '<span class="pficon pficon-virtual-machine"></span>'
 
-  'volume icon':
+  'volume (pf)':
     'prefix': 'i-volume'
-    'body': '<i class="pficon pficon-volume"></i>'
+    'body': '<span class="pficon pficon-volume"></span>'
 
-  '⚠ warning icon':
+  '⚠ warning (pf)':
     'prefix': 'i-warning'
-    'body': '<i class="pficon pficon-warning-triangle-o"></i>'
+    'body': '<span class="pficon pficon-warning-triangle-o"></span>'
 
-  '⚭ zone icon':
+  '⚭ zone (pf)':
     'prefix': 'i-zone'
-    'body': '<i class="pficon pficon-zone"></i>'
+    'body': '<span class="pficon pficon-zone"></span>'
